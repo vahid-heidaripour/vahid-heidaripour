@@ -1,4 +1,4 @@
-### Hi there 👋, 🌱 I’m currently learning Go 
+### Hi there 👋, I’m currently learning Go 🌱 
 
 <!--
 **vahid-heidaripour/vahid-heidaripour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=vahid-heidaripour&count_private=true&show_icons=true&hide=contribs" width="470px" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vahid-heidaripour&layout=compact" width="332px" />
+</a>
